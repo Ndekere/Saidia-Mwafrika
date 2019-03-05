@@ -17,7 +17,9 @@ https://github.com/Ndekere/Saidia-Mwafrika/tree/master/Painter/src/painter
 
 
 If you don't know how to Use github, add me on whatsapp and i will help you out::
-+254750621798 Alternatively, give me a call on:: 0740302056
++254750621798.
+
+Alternatively, give me a call on:: 0740302056
 
 Curious Minds can also Visit my blog:: https://njoo.co.ke
 
