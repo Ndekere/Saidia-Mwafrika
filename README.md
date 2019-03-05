@@ -16,6 +16,9 @@ If you want to skip the Java libraries and go directly to the Java Source code, 
 https://github.com/Ndekere/Saidia-Mwafrika/tree/master/Painter/src/painter
 
 
+If you don't know how to Use github, add me on whatsapp and i will help you out::
++254750621798
+
 Curious Minds can also Visit my blog:: https://njoo.co.ke
 
 Your help will be greatly appreciated!! 
