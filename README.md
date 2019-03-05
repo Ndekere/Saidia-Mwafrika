@@ -12,5 +12,15 @@ For full source code, visit the link(s) below::
 
 https://github.com/Ndekere/Saidia-Mwafrika
 
+If you want to skip the Java libraries and go directly to the Java Source code, use this link::
+https://github.com/Ndekere/Saidia-Mwafrika/tree/master/Painter/src/painter
+
 
 Curious Minds can also Visit my blog:: https://njoo.co.ke
+
+Your help will be greatly appreciated!! 
+
+Best regards, 
+Kiritu Ndekere
+
+Twitter:: https://twitter.com/ndekere254
