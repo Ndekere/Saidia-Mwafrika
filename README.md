@@ -11,3 +11,6 @@ Sent to your Mpesa or Paypal account. Easy money.
 For full source code, visit the link(s) below::
 
 https://github.com/Ndekere/Saidia-Mwafrika
+
+
+Curious Minds can also Visit my blog:: https://njoo.co.ke
